@@ -5,11 +5,11 @@
 
 ## 👀 카테고리
 
-- [개발 컨텐츠]()
-- [개발자 커리큘럼 & 로드맵]()
-- [개발 관련]()
-- [타사 기술 블로그]()
-- [기타]()
+- [개발 컨텐츠](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EA%B0%9C%EB%B0%9C-%EC%BB%A8%ED%85%90%EC%B8%A0)
+- [개발자 커리큘럼 & 로드맵](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC--%EB%A1%9C%EB%93%9C%EB%A7%B5)
+- [개발 관련](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EA%B0%9C%EB%B0%9C-%EA%B4%80%EB%A0%A8)
+- [타사 기술 블로그](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%ED%83%80%EC%82%AC-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8)
+- [기타](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EA%B8%B0%ED%83%80)
 
 ## ✔ 개발 컨텐츠
 
@@ -25,31 +25,35 @@
 
 ### Java 
 
+- [Java 기본 문법 총 정리](https://nyebo.net/75)
 - [Java Stream은 왜 for-loop보다 느릴까?](https://jypthemiracle.medium.com/java-stream-api%EB%8A%94-%EC%99%9C-for-loop%EB%B3%B4%EB%8B%A4-%EB%8A%90%EB%A6%B4%EA%B9%8C-50dec4b9974b)
 
 ### Spring
 
-- [DI와 IOC Container란?]()
-- [AOP란?]()
 - [디스패처 서블릿이란?](https://mangkyu.tistory.com/18)
 
 ### Git
 
+- [Git 기본 사용법](https://iseunghan.tistory.com/321)
+- [자주 사용되는 Git 명령어](https://github.com/jeonghwan-kim/git-usage)
+- [Git Commit 메시지 작성법](https://richone.tistory.com/26)
 - [Git Rank Theme](https://velog.io/@dding_ji/Github-Readme-Profile)
 - [Github 프로필에 commit 시간 기록 남기기](https://somjang.tistory.com/entry/GitHub-GitHub-%ED%94%84%EB%A1%9C%ED%95%84%EC%97%90-%EB%82%B4-commit-%EC%8B%9C%EA%B0%84-%EA%B8%B0%EB%A1%9D-%EB%82%A8%EA%B2%A8%EB%B3%B4%EA%B8%B0)
+- [Github emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+## ✔ 기타
+
+- [Daily Blog 구독 서비스 신청(개발 블로그 구독 서비스)](http://daily-devblog.com/) ✨
+- [Chrome Plugin One Tab(브라우저 창 관리)](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=ko)
+- [Chrome Plugin Host Admin(로컬 IP 제어)](https://chrome.google.com/webstore/detail/hostadmin-app/mfoaclfeiefiehgaojbmncmefhdnikeg?hl=ko&)
+- [AWS EC2 클라우드 서버 기본 배우기(무료)](https://www.inostudy.net/mypage/index.jsp)
+- [애자일(Agile) 개발 방법론](https://hanseul-lee.github.io/2020/11/29/20-11-29-Agile/)
+- [JWT Token](https://www.youtube.com/watch?v=iT8KODThXxY)
+- [AWS Ec2 무료 강의](https://www.inostudy.net/mypage/index.jsp)
 
 ## ✔ 타사 기술 블로그
 
 - [Devocean](https://devocean.sk.com/vlog/index.do)
 - [우아한형제들 기술 블로그](https://techblog.woowahan.com/)
 - [NHN Cloud | Meetup!](https://meetup.toast.com/?page=2)
-- [AWS Ec2 무료 강의](https://www.inostudy.net/mypage/index.jsp)
-
-## ✔ 기타
-
-- [Daily Blog 구독 서비스 신청(개발 블로그 구독 서비스)](http://daily-devblog.com/)
-- [Chrome Plugin One Tab(브라우저 창 관리)](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=ko)
-- [Chrome Plugin Host Admin(로컬 IP 제어)](https://chrome.google.com/webstore/detail/hostadmin-app/mfoaclfeiefiehgaojbmncmefhdnikeg?hl=ko&)
-- [AWS EC2 클라우드 서버 기본 배우기(무료)](https://www.inostudy.net/mypage/index.jsp)
-- [애자일(Agile) 개발 방법론](https://hanseul-lee.github.io/2020/11/29/20-11-29-Agile/)
 

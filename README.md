@@ -8,7 +8,12 @@
 ## 🔎 [Dev Contents & Keyword](02.%20BackEnd%20개발%20키워드/README.md)
 
 - 사내 개발자들을 위한 개발 컨텐츠 공유 및 키워드 공유 Repository 입니다.
-- Site : [회사 소개](http://funin.camp)
+
+## 📄 [깃허브 프로젝트 사용 방법](https://github.com/funin0302/dev-contents/wiki/GitHub-Project-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95)
+
+- 깃허브 프로젝트 사용 방법입니다.
+
+
 
 
 
