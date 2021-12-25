@@ -58,8 +58,7 @@
         - Spring Boot Test
     - Spring Data Access
         - Spring JDBC
-		
-
+        
 - Common Topic
     - Basic Frontend Knowledge
         - HTML
