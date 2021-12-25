@@ -22,6 +22,7 @@
 <p>
     <a href="javascript:void(0)">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>        
         <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=gray"/>
         <img src="https://img.shields.io/badge/jQuery-339AF0?style=flat&logo=jQuery&logoColor=white"/>    
         <img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>
@@ -29,19 +30,10 @@
     <a href="javascript:void(0)">
         <img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>
-        <img src="https://img.shields.io/badge/Node.js-lightblack?style=flat&logo=Node.js&logoColor=339933"/>
-    </a><br>
-    <a href="javascript:void(0)">
         <img src="https://img.shields.io/badge/MariaDB-00838f?style=flat&logo=MariaDB&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-339AF0?style=flat&logo=MySQL&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-lightblack?style=flat&logo=MongoDB&logoColor=339933"/>
-    </a><br>
-    <a href="javascript:void(0)">
         <img src="https://img.shields.io/badge/Git-orange?style=flat&logo=Git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitLab-white?style=flat&logo=GitLab&logoColor=orange"/>
-        <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black"/>
-    </a>
+    </a><br>
 </p>
 
 </div>
