@@ -46,8 +46,6 @@
 
 </div>
 
----
-
 ## 🙏  Goal
 
 🔥 새로운 지식과 정보를 함께 채워나가기 위함입니다.    
@@ -55,21 +53,15 @@
 
 ### ✨ Related to development
 
-> Recommended site related to development
-
 - [개발 관련 사이트](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8)
 
 ### 🔎 Dev Contents & Keyword
-
-> The repository is a development content for in-house developers.
 
 - [백엔드 로드맵 키워드](02.%20BackEnd%20개발%20키워드/README.md)
 
 ### 📖 Documentation
 
-> Organize how to work and use documents.
-
-- [Git을 이용한 협업: Fork 부터 Pull Request 까지]()
+- [Git을 이용한 협업 Fork 부터 Pull Request 까지](https://seungwubaek.github.io/tools/git/contributing_using_pull_request/)
 - [깃 허브 프로젝트 사용 방법](https://github.com/funin0302/dev-contents/wiki/GitHub-Project-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95)
 
 
