@@ -57,7 +57,7 @@
 - [2022년 Log4j 보안 이슈](https://youtu.be/kwS3twdVsko) ✨
 - [Server Less란?](https://youtu.be/ufLmReluPww)
 - [JWT Token이란?](https://www.youtube.com/watch?v=iT8KODThXxY)
-- [5분만에 로컬 PC 외부에 공유하는 방법](ttps://www.youtube.com/watch?v=0lUJvVqSEkY)
+- [5분만에 로컬 PC 외부에 공유하는 방법](https://www.youtube.com/watch?v=0lUJvVqSEkY)
 
 ### ✔ 타사 기술 블로그
 
