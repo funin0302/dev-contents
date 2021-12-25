@@ -8,7 +8,7 @@
 - [개발자 커리큘럼 & 로드맵](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC--%EB%A1%9C%EB%93%9C%EB%A7%B5)
 - [개발 관련](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EA%B0%9C%EB%B0%9C-%EA%B4%80%EB%A0%A8)
 - [기타](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EA%B8%B0%ED%83%80)
-- [영상]()
+- [영상](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EC%98%81%EC%83%81)
 - [타사 기술 블로그](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%ED%83%80%EC%82%AC-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8)
 
 ### ✔ 개발 컨텐츠
