@@ -1,15 +1,15 @@
 ## ✨ 개발 관련 추천 사이트
-
-> 공유를 통해 더 나은 성장과 환경을 만드는 것을 지향합니다.   
+ 
 > 개발 컨텐츠, 커리큘럼, 로드맵 등에 관련된 지식을 정리하고 공유합니다.
 
-### 👀 카테고리
+### 👀 카테고리 목록
 
 - [개발 컨텐츠](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EA%B0%9C%EB%B0%9C-%EC%BB%A8%ED%85%90%EC%B8%A0)
 - [개발자 커리큘럼 & 로드맵](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC--%EB%A1%9C%EB%93%9C%EB%A7%B5)
 - [개발 관련](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EA%B0%9C%EB%B0%9C-%EA%B4%80%EB%A0%A8)
-- [타사 기술 블로그](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%ED%83%80%EC%82%AC-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8)
 - [기타](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EA%B8%B0%ED%83%80)
+- [영상]()
+- [타사 기술 블로그](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%ED%83%80%EC%82%AC-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8)
 
 ### ✔ 개발 컨텐츠
 
@@ -49,12 +49,20 @@
 - [Chrome Plugin Host Admin(로컬 IP 제어)](https://chrome.google.com/webstore/detail/hostadmin-app/mfoaclfeiefiehgaojbmncmefhdnikeg?hl=ko&)
 - [AWS EC2 클라우드 서버 기본 배우기(무료)](https://www.inostudy.net/mypage/index.jsp)
 - [애자일(Agile) 개발 방법론](https://hanseul-lee.github.io/2020/11/29/20-11-29-Agile/)
-- [JWT Token](https://www.youtube.com/watch?v=iT8KODThXxY)
-- [AWS Ec2 무료 강의](https://www.inostudy.net/mypage/index.jsp)
+- [AWS Ec2 무료 강의 사이트](https://www.inostudy.net/mypage/index.jsp)
+
+### ✔ 영상
+
+- [2022년 웹개발 동향](https://www.youtube.com/watch?v=CFITb_7Duxs)
+- [2022년 Log4j 보안 이슈](https://youtu.be/kwS3twdVsko) ✨
+- [Server Less란?](https://youtu.be/ufLmReluPww)
+- [JWT Token이란?](https://www.youtube.com/watch?v=iT8KODThXxY)
+- [5분만에 로컬 PC 외부에 공유하는 방법](ttps://www.youtube.com/watch?v=0lUJvVqSEkY)
 
 ### ✔ 타사 기술 블로그
 
 - [Devocean](https://devocean.sk.com/vlog/index.do)
 - [우아한형제들 기술 블로그](https://techblog.woowahan.com/)
 - [NHN Cloud | Meetup!](https://meetup.toast.com/?page=2)
+- [Naver D2](https://d2.naver.com/home)
 
