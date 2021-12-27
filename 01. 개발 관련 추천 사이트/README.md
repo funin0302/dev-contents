@@ -27,10 +27,16 @@
 
 - [Java 기본 문법 총 정리](https://nyebo.net/75)
 - [Java Stream은 왜 for-loop보다 느릴까?](https://jypthemiracle.medium.com/java-stream-api%EB%8A%94-%EC%99%9C-for-loop%EB%B3%B4%EB%8B%A4-%EB%8A%90%EB%A6%B4%EA%B9%8C-50dec4b9974b)
+- [자바 직렬화의 대안을 찾아라](https://hirlawldo.tistory.com/123)
 
 #### Spring
 
 - [디스패처 서블릿이란?](https://mangkyu.tistory.com/18)
+
+#### Python
+
+- [주피터 노트북이란?](https://justkode.tistory.com/4)
+- [파이썬 주피터 노트북 설치 윈도우용](https://zidarn87.tistory.com/314)
 
 #### Git
 
@@ -41,6 +47,13 @@
 - [Git Rank Theme](https://velog.io/@dding_ji/Github-Readme-Profile)
 - [Github 프로필에 commit 시간 기록 남기기](https://somjang.tistory.com/entry/GitHub-GitHub-%ED%94%84%EB%A1%9C%ED%95%84%EC%97%90-%EB%82%B4-commit-%EC%8B%9C%EA%B0%84-%EA%B8%B0%EB%A1%9D-%EB%82%A8%EA%B2%A8%EB%B3%B4%EA%B8%B0)
 - [Github emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [로컬 .git 파일 삭제](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/delete-local-git-repository-repo-command-windows-linux-rm)
+
+#### Editor
+
+- [VSCode EsLint, Prettier](https://kimdabin.tistory.com/entry/Reactjs-ESLint%EC%99%80-Prettier%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-React-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95-VSCode)
+- [VSCode 한줄 삭제, 복사, 이동](https://hianna.tistory.com/361)
+- [VSCode night owl plugin](https://worker-k.tistory.com/entry/VS-Code-%EB%B3%B4%EA%B8%B0-%EC%A2%8B%EC%9D%80-%ED%85%8C%EB%A7%88-%EB%B3%80%EA%B2%BD-%EB%B0%A9%EB%B2%95-%EB%B0%8F-%EC%B6%94%EC%B2%9C)
 
 ### ✔ 기타
 
@@ -58,6 +71,7 @@
 - [Server Less란?](https://youtu.be/ufLmReluPww)
 - [JWT Token이란?](https://www.youtube.com/watch?v=iT8KODThXxY)
 - [5분만에 로컬 PC 외부에 공유하는 방법](https://www.youtube.com/watch?v=0lUJvVqSEkY)
+- [Foward Proxy, Reverse Proxy, Load Balancer](https://youtu.be/YxwYhenZ3BE)
 
 ### ✔ 타사 기술 블로그
 
