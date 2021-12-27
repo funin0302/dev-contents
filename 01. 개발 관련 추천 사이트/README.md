@@ -47,6 +47,8 @@
 - [Git Rank Theme](https://velog.io/@dding_ji/Github-Readme-Profile)
 - [Github 프로필에 commit 시간 기록 남기기](https://somjang.tistory.com/entry/GitHub-GitHub-%ED%94%84%EB%A1%9C%ED%95%84%EC%97%90-%EB%82%B4-commit-%EC%8B%9C%EA%B0%84-%EA%B8%B0%EB%A1%9D-%EB%82%A8%EA%B2%A8%EB%B3%B4%EA%B8%B0)
 - [Github emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [하루만에 만드는 깃 허브 블로그](https://khw11044.github.io/blog/githubpages/2020-12-26-making-blog-02/)
+- [깃헙(GitHub) 블로그 10분안에 완성하기](https://www.youtube.com/watch?v=ACzFIAOsfpM)
 - [로컬 .git 파일 삭제](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/delete-local-git-repository-repo-command-windows-linux-rm)
 
 #### Editor
