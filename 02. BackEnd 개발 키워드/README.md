@@ -1,64 +1,64 @@
 # BackEnd 개발 키워드
+
 - Java
-	- Generic
-	- Varargs
-	- try-with-resources
-	- Exception
-	- JDK
-		- JCF
-			- List
-			- Set
-			- Map
-		- JAVA8
-			- Lambda
-			- Stream API
-			- Optional
-			- Functional Interface
+    - Generic
+    - Varargs
+    - try-with-resources
+    - Exception
+    - JDK
+        - JCF
+            - List
+            - Set
+            - Map
+        - Java8
+            - Lambda
+            - Stream API
+            - Optional
+            - Functional Interface
 
 - Tools
-	- Build
-		- Maven
-		- Gradle
-	- IDE
-		- Intellij
+    - Build
+        - Maven
+        - Gradle
+    - IDE
+        - Intellij
 		
 - Cooperation
-	- Git
-	- Code Review
-	- Pair Programming
+    - Git
+    - Code Review
+    - Pair Programming
 	
 - Principle
-	- Clean Code
-	- Refactoring
-	- Object-Oriented
-		- S.O.L.I.D
-		- D.R.Y
-		- 객체지향 생활체조
-	- GOF Design Pattern
-		- Strategy Pattern
-		- Template Method Pattern
-		- State Pattern
+    - Clean Code
+    - Refactoring
+    - Object-Oriented
+        - S.O.L.I.D
+        - D.R.Y
+        - 객체지향 생활체조
+    - GOF Design Pattern
+        - Strategy Pattern
+        - Template Method Pattern
+        - State Pattern
 
 - Testing
-	- Junit5
-	- F.I.R.S.Template
-	- TDD
+    - Junit5
+    - F.I.R.S.Template
+    - TDD
 
 - Spring Framework
-	- Spring MVC
-		- Dispatcher Servlet
-		- Annotated Controllers
-		- Spring MVC Test
-	- Spring Core
-		- Container
-		- Bean
-		- Dependency
-	- Spring boot
-		- Spring Boot Test
-	- Spring Data Access
-		- Spring JDBC
-		
-
+    - Spring MVC
+        - Dispatcher Servlet
+        - Annotated Controllers
+        - Spring MVC Test
+    - Spring Core
+        - Container
+        - Bean
+        - Dependency
+    - Spring boot
+        - Spring Boot Test
+    - Spring Data Access
+        - Spring JDBC
+        
 - Common Topic
     - Basic Frontend Knowledge
         - HTML
