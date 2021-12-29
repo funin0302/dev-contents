@@ -22,7 +22,7 @@
         - Gradle
     - IDE
         - Intellij
-		
+
 - Cooperation
     - Git
     - Code Review
@@ -58,7 +58,7 @@
         - Spring Boot Test
     - Spring Data Access
         - Spring JDBC
-        
+
 - Common Topic
     - Basic Frontend Knowledge
         - HTML
