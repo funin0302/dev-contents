@@ -1,0 +1,11 @@
+# Principle
+- Clean Code
+- Refactoring
+- Object-Oriented
+    - S.O.L.I.D
+    - D.R.Y
+    - 객체지향 생활체조
+- GOF Design Pattern
+    - Strategy Pattern
+    - Template Method Pattern
+    - State Pattern

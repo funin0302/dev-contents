@@ -45,11 +45,12 @@
 
 ### ✨ Related to development
 
-- [개발 관련 사이트](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8)
+- [개발 관련 사이트](01_개발_관련_추천_사이트/README.md)
 
 ### 🔎 Dev Contents & Keyword
 
-- [백엔드 로드맵 키워드](02.%20BackEnd%20개발%20키워드/README.md)
+- [백엔드 로드맵 키워드](02_BackEnd_개발_키워드/README.md)
+- [프론트엔드 로드맵 키워드](02_FrontEnd_개발_키워드/README.md)
 
 ### 📖 Documentation
 

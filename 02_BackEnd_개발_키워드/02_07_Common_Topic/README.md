@@ -1,0 +1,46 @@
+# Common Topic
+- Basic Frontend Knowledge
+    - HTML
+    - CSS
+    - JavaScript
+- OS
+    - How OSs work in General
+    - Process & Threads
+    - Basic Terminal Command
+- Network
+    - OSI 7 Layer
+    - Block/Non-Block
+    - Connection Management
+    - HTTP
+        - Header
+        - Caching
+        - Optimization
+        - HTTP2.0
+- Database
+    - MySQL
+    - RDBMS
+- RESTful APIs
+- Documentation
+    - Spring REST Docs
+- Logging
+    - Logback
+- Authentication
+    - Cookie Based
+    - OAuth
+    - Basic Authentication
+    - Token Authentication
+    - JWT
+- Authorization
+- Deployment
+- ORMs
+- JVM
+- Fault Tolerance
+    - SPOF
+    - Horizontal vs Vertical Scaling
+- Caching
+- Security
+    - Hashing Algorithms
+    - TLS
+    - Firewall
+    - CORS
+    - SQL Injection
