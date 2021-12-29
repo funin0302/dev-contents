@@ -40,8 +40,8 @@
 
 ## 🙏  Goal
 
-🔥 새로운 지식과 정보를 함께 채워나가기 위함입니다.    
-👩‍💻 사내 개발자들간의 지식 및 정보 공유를 위한 소통의 장입니다.
+- 새로운 지식과 정보를 함께 채워나가기 위함입니다.    
+- 사내 개발자들간의 지식 및 정보 공유를 위한 소통의 장입니다.
 
 ### ✨ Related to development
 
@@ -53,7 +53,7 @@
 
 ### 📖 Documentation
 
-- [Git을 이용한 협업 Fork 부터 Pull Request 까지](https://seungwubaek.github.io/tools/git/contributing_using_pull_request/)
+- [깃을 이용한 협업 Fork 부터 Pull Request 까지](https://seungwubaek.github.io/tools/git/contributing_using_pull_request/)
 - [깃 허브 프로젝트 사용 방법](https://github.com/funin0302/dev-contents/wiki/GitHub-Project-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95)
 
 
