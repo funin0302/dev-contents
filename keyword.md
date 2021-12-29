@@ -1,5 +1,5 @@
 # BackEnd 개발 키워드
-- JAVA
+- Java
 	- Generic
 	- Varargs
 	- try-with-resources
