@@ -11,6 +11,13 @@
 - [영상](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EC%98%81%EC%83%81)
 - [타사 기술 블로그](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%ED%83%80%EC%82%AC-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8)
 
+### 📌 HotFix
+
+- [2022년 Log4j 보안 이슈](https://youtu.be/kwS3twdVsko)
+- [Log4j Apached 신버전](https://checkmarx.com/blog/cve-2021-44832-apache-log4j-2-17-0-arbitrary-code-execution-via-jdbcappender-datasource-element/)
+- [Daily Blog 구독 서비스 신청(개발 블로그 구독 서비스)](http://daily-devblog.com/)
+- [Git을 이용한 협업: Fork 부터 Pull Request 까지](https://seungwubaek.github.io/tools/git/contributing_using_pull_request/)
+
 ### ✔ 개발 컨텐츠
 
 - [고퀄리티 개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
@@ -35,6 +42,7 @@
 - [Java 기본 문법 총 정리](https://nyebo.net/75)
 - [Java Stream은 왜 for-loop보다 느릴까?](https://jypthemiracle.medium.com/java-stream-api%EB%8A%94-%EC%99%9C-for-loop%EB%B3%B4%EB%8B%A4-%EB%8A%90%EB%A6%B4%EA%B9%8C-50dec4b9974b)
 - [자바 직렬화의 대안을 찾아라](https://hirlawldo.tistory.com/123)
+- [Log4j Apached 신버전](https://checkmarx.com/blog/cve-2021-44832-apache-log4j-2-17-0-arbitrary-code-execution-via-jdbcappender-datasource-element/)
 
 #### Spring
 
@@ -66,7 +74,7 @@
 
 ### ✔ 기타
 
-- [Daily Blog 구독 서비스 신청(개발 블로그 구독 서비스)](http://daily-devblog.com/) ✨
+- [Daily Blog 구독 서비스 신청(개발 블로그 구독 서비스)](http://daily-devblog.com/)
 - [Chrome Plugin One Tab(브라우저 창 관리)](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=ko)
 - [Chrome Plugin Host Admin(로컬 IP 제어)](https://chrome.google.com/webstore/detail/hostadmin-app/mfoaclfeiefiehgaojbmncmefhdnikeg?hl=ko&)
 - [AWS EC2 클라우드 서버 기본 배우기(무료)](https://www.inostudy.net/mypage/index.jsp)
@@ -77,7 +85,7 @@
 ### ✔ 영상
 
 - [2022년 웹개발 동향](https://www.youtube.com/watch?v=CFITb_7Duxs)
-- [2022년 Log4j 보안 이슈](https://youtu.be/kwS3twdVsko) ✨
+- [2022년 Log4j 보안 이슈](https://youtu.be/kwS3twdVsko)
 - [Server Less란?](https://youtu.be/ufLmReluPww)
 - [JWT Token이란?](https://www.youtube.com/watch?v=iT8KODThXxY)
 - [5분만에 로컬 PC 외부에 공유하는 방법](https://www.youtube.com/watch?v=0lUJvVqSEkY)

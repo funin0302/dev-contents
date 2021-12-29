@@ -1,6 +1,6 @@
 # BackEnd 개발 키워드
 
-- JAVA
+- Java
     - Generic
     - Varargs
     - try-with-resources
@@ -10,7 +10,7 @@
             - List
             - Set
             - Map
-        - JAVA8
+        - Java8
             - Lambda
             - Stream API
             - Optional
@@ -22,7 +22,7 @@
         - Gradle
     - IDE
         - Intellij
-		
+
 - Cooperation
     - Git
     - Code Review
@@ -58,7 +58,7 @@
         - Spring Boot Test
     - Spring Data Access
         - Spring JDBC
-        
+
 - Common Topic
     - Basic Frontend Knowledge
         - HTML
