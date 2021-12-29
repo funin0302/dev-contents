@@ -1,19 +1,20 @@
-## ✨ 개발 관련 추천 사이트
+## 개발 관련 추천 사이트
  
 > 개발 컨텐츠, 커리큘럼, 로드맵 등에 관련된 지식을 정리하고 공유합니다.
 
 ### 👀 카테고리 목록
 
-- [개발 컨텐츠](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EA%B0%9C%EB%B0%9C-%EC%BB%A8%ED%85%90%EC%B8%A0)
-- [개발자 커리큘럼 & 로드맵](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC--%EB%A1%9C%EB%93%9C%EB%A7%B5)
-- [개발 관련](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EA%B0%9C%EB%B0%9C-%EA%B4%80%EB%A0%A8)
-- [기타](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EA%B8%B0%ED%83%80)
-- [영상](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EC%98%81%EC%83%81)
-- [타사 기술 블로그](https://github.com/funin0302/dev-contents/tree/main/01.%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EB%A0%A8%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8#-%ED%83%80%EC%82%AC-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8)
+- [개발 컨텐츠](https://github.com/funin0302/dev-contents/tree/main/01_%EA%B0%9C%EB%B0%9C_%EA%B4%80%EB%A0%A8_%EC%B6%94%EC%B2%9C_%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EA%B0%9C%EB%B0%9C-%EC%BB%A8%ED%85%90%EC%B8%A0)
+- [개발자 커리큘럼 & 로드맵](https://github.com/funin0302/dev-contents/tree/main/01_%EA%B0%9C%EB%B0%9C_%EA%B4%80%EB%A0%A8_%EC%B6%94%EC%B2%9C_%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC--%EB%A1%9C%EB%93%9C%EB%A7%B5)
+- [개발 관련](https://github.com/funin0302/dev-contents/tree/main/01_%EA%B0%9C%EB%B0%9C_%EA%B4%80%EB%A0%A8_%EC%B6%94%EC%B2%9C_%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EA%B0%9C%EB%B0%9C-%EA%B4%80%EB%A0%A8)
+- [기타](https://github.com/funin0302/dev-contents/tree/main/01_%EA%B0%9C%EB%B0%9C_%EA%B4%80%EB%A0%A8_%EC%B6%94%EC%B2%9C_%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EA%B8%B0%ED%83%80)
+- [영상](https://github.com/funin0302/dev-contents/tree/main/01_%EA%B0%9C%EB%B0%9C_%EA%B4%80%EB%A0%A8_%EC%B6%94%EC%B2%9C_%EC%82%AC%EC%9D%B4%ED%8A%B8#-%EC%98%81%EC%83%81)
+- [타사 기술 블로그](https://github.com/funin0302/dev-contents/tree/main/01_%EA%B0%9C%EB%B0%9C_%EA%B4%80%EB%A0%A8_%EC%B6%94%EC%B2%9C_%EC%82%AC%EC%9D%B4%ED%8A%B8#-%ED%83%80%EC%82%AC-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8)
 
-### 📌 HotFix
+### 📌 Hot Fix
 
 - [2022년 Log4j 보안 이슈](https://youtu.be/kwS3twdVsko)
+- [클린코드를 위한 코드 리팩터링](https://youtu.be/zZMF-WzIQLM)
 - [Log4j Apached 신버전](https://checkmarx.com/blog/cve-2021-44832-apache-log4j-2-17-0-arbitrary-code-execution-via-jdbcappender-datasource-element/)
 - [Daily Blog 구독 서비스 신청(개발 블로그 구독 서비스)](http://daily-devblog.com/)
 - [Git을 이용한 협업: Fork 부터 Pull Request 까지](https://seungwubaek.github.io/tools/git/contributing_using_pull_request/)
@@ -48,14 +49,14 @@
 
 - [디스패처 서블릿이란?](https://mangkyu.tistory.com/18)
 
-#### Python
+#### Jupyter Notebook
 
 - [주피터 노트북이란?](https://justkode.tistory.com/4)
 - [파이썬 주피터 노트북 설치 윈도우용](https://zidarn87.tistory.com/314)
 
 #### Git
 
-- [Git을 이용한 협업: Fork 부터 Pull Request 까지](https://seungwubaek.github.io/tools/git/contributing_using_pull_request/) ✨
+- [Git을 이용한 협업: Fork 부터 Pull Request 까지](https://seungwubaek.github.io/tools/git/contributing_using_pull_request/)
 - [Git 기본 사용법](https://iseunghan.tistory.com/321)
 - [자주 사용되는 Git 명령어](https://github.com/jeonghwan-kim/git-usage)
 - [Git Commit 메시지 작성법](https://richone.tistory.com/26)
@@ -90,6 +91,8 @@
 - [JWT Token이란?](https://www.youtube.com/watch?v=iT8KODThXxY)
 - [5분만에 로컬 PC 외부에 공유하는 방법](https://www.youtube.com/watch?v=0lUJvVqSEkY)
 - [Foward Proxy, Reverse Proxy, Load Balancer](https://youtu.be/YxwYhenZ3BE)
+- [클린코드를 위한 코드 리팩터링](https://youtu.be/zZMF-WzIQLM)
+- [SpringBoot JWT를 활용한 인증 구현](https://www.youtube.com/watch?v=TlWzEr4cXfc)
 
 ### ✔ 타사 기술 블로그
 
