@@ -58,9 +58,9 @@
 - [깃 허브 프로젝트 사용 방법](https://github.com/funin0302/dev-contents/wiki/GitHub-Project-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95)
 
 
+### Etc.
 
-
-
+- 기타 사항은 연락주시면 감사합니다.
 
 
 
