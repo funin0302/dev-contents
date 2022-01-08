@@ -1,6 +1,7 @@
 # Tools
+
 - Build
-    - Maven
-    - Gradle
+  - Maven
+  - Gradle
 - IDE
-    - Intellij
+  - Intellij

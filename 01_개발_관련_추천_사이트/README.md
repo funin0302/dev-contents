@@ -1,5 +1,5 @@
 ## 개발 관련 추천 사이트
- 
+
 > 개발 컨텐츠, 커리큘럼, 로드맵 등에 관련된 지식을 정리하고 공유합니다.
 
 ### 👀 카테고리 목록
@@ -13,8 +13,8 @@
 
 ### 📌 Hot Fix
 
-- [2022년 Log4j 보안 이슈](https://youtu.be/kwS3twdVsko)
-- [클린코드를 위한 코드 리팩터링](https://youtu.be/zZMF-WzIQLM)
+- [Intellij 유용한 설정 및 플러그인](https://bcp0109.tistory.com/350)
+- [Java 11 이상으로 전환해야 하는 이유](https://www.popit.kr/%EB%B2%88%EC%97%AD%EA%B8%80-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EB%8C%80%EC%9D%98-java%EB%A5%BC-%EB%A7%9E%EC%9D%B4%ED%95%98%EB%A9%B0/)
 - [Log4j Apached 신버전](https://checkmarx.com/blog/cve-2021-44832-apache-log4j-2-17-0-arbitrary-code-execution-via-jdbcappender-datasource-element/)
 - [Daily Blog 구독 서비스 신청(개발 블로그 구독 서비스)](http://daily-devblog.com/)
 - [Git을 이용한 협업: Fork 부터 Pull Request 까지](https://seungwubaek.github.io/tools/git/contributing_using_pull_request/)
@@ -29,7 +29,7 @@
 - [신입 & 경력 개발자 역량 평가](https://github.com/EBvi/dev-matrix)
 - [웹 개발 커리큘럼](https://github.com/Knowre-Dev/WebDevCurriculum)
 
-### ✔ 개발 관련 
+### ✔ 개발 관련
 
 #### ELK
 
@@ -38,12 +38,13 @@
 - [Elastic Stack 개요와 설치](https://github.com/funin0302/dev-contents/wiki/Elastic-Stack-%EA%B0%9C%EC%9A%94%EC%99%80-%EC%84%A4%EC%B9%98)
 - [Elasticsearch CRUD](https://github.com/funin0302/dev-contents/wiki/Elasticsearch-CRUD)
 
-#### Java 
+#### Java
 
 - [Java 기본 문법 총 정리](https://nyebo.net/75)
 - [Java Stream은 왜 for-loop보다 느릴까?](https://jypthemiracle.medium.com/java-stream-api%EB%8A%94-%EC%99%9C-for-loop%EB%B3%B4%EB%8B%A4-%EB%8A%90%EB%A6%B4%EA%B9%8C-50dec4b9974b)
 - [자바 직렬화의 대안을 찾아라](https://hirlawldo.tistory.com/123)
 - [Log4j Apached 신버전](https://checkmarx.com/blog/cve-2021-44832-apache-log4j-2-17-0-arbitrary-code-execution-via-jdbcappender-datasource-element/)
+- [Java 11 이상으로 전환해야 하는 이유](https://www.popit.kr/%EB%B2%88%EC%97%AD%EA%B8%80-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EB%8C%80%EC%9D%98-java%EB%A5%BC-%EB%A7%9E%EC%9D%B4%ED%95%98%EB%A9%B0/)
 
 #### Spring
 
@@ -66,12 +67,14 @@
 - [하루만에 만드는 깃 허브 블로그](https://khw11044.github.io/blog/githubpages/2020-12-26-making-blog-02/)
 - [깃헙(GitHub) 블로그 10분안에 완성하기](https://www.youtube.com/watch?v=ACzFIAOsfpM)
 - [로컬 .git 파일 삭제](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/delete-local-git-repository-repo-command-windows-linux-rm)
+- [git push 사용팁](https://www.daleseo.com/git-push/)
 
 #### Editor
 
 - [VSCode EsLint, Prettier](https://kimdabin.tistory.com/entry/Reactjs-ESLint%EC%99%80-Prettier%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-React-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95-VSCode)
 - [VSCode 한줄 삭제, 복사, 이동](https://hianna.tistory.com/361)
 - [VSCode night owl plugin](https://worker-k.tistory.com/entry/VS-Code-%EB%B3%B4%EA%B8%B0-%EC%A2%8B%EC%9D%80-%ED%85%8C%EB%A7%88-%EB%B3%80%EA%B2%BD-%EB%B0%A9%EB%B2%95-%EB%B0%8F-%EC%B6%94%EC%B2%9C)
+- [Intellij 유용한 설정 및 플러그인](https://bcp0109.tistory.com/350)
 
 ### ✔ 기타
 
@@ -100,4 +103,3 @@
 - [우아한형제들 기술 블로그](https://techblog.woowahan.com/)
 - [NHN Cloud | Meetup!](https://meetup.toast.com/?page=2)
 - [Naver D2](https://d2.naver.com/home)
-
