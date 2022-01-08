@@ -1,161 +1,171 @@
 # BackEnd 개발 키워드
 
 - Java
-    - Generic
-    - Varargs
-    - try-with-resources
-    - Exception
-    - JDK
-        - JCF
-            - List
-            - Set
-            - Map
-        - Java8
-            - Lambda
-            - Stream API
-            - Optional
-            - Functional Interface
+
+  - Generic
+  - Varargs
+  - try-with-resources
+  - Exception
+  - JDK
+    - JCF
+      - List
+      - Set
+      - Map
+    - Java8
+      - Lambda
+      - Stream API
+      - Optional
+      - Functional Interface
 
 - Tools
-    - Build
-        - Maven
-        - Gradle
-    - IDE
-        - Intellij
+
+  - Build
+    - Maven
+    - Gradle
+  - IDE
+    - Intellij
 
 - Cooperation
-    - Git
-    - Code Review
-    - Pair Programming
-	
+  - Git
+  - Code Review
+  - Pair Programming
 - Principle
-    - Clean Code
-    - Refactoring
-    - Object-Oriented
-        - S.O.L.I.D
-        - D.R.Y
-        - 객체지향 생활체조
-    - GOF Design Pattern
-        - Strategy Pattern
-        - Template Method Pattern
-        - State Pattern
+
+  - Clean Code
+  - Refactoring
+  - Object-Oriented
+    - S.O.L.I.D
+    - D.R.Y
+    - 객체지향 생활체조
+  - GOF Design Pattern
+    - Strategy Pattern
+    - Template Method Pattern
+    - State Pattern
 
 - Testing
-    - Junit5
-    - F.I.R.S.Template
-    - TDD
+
+  - Junit5
+  - F.I.R.S.Template
+  - TDD
 
 - Spring Framework
-    - Spring MVC
-        - Dispatcher Servlet
-        - Annotated Controllers
-        - Spring MVC Test
-    - Spring Core
-        - Container
-        - Bean
-        - Dependency
-    - Spring boot
-        - Spring Boot Test
-    - Spring Data Access
-        - Spring JDBC
+
+  - Spring MVC
+    - Dispatcher Servlet
+    - Annotated Controllers
+    - Spring MVC Test
+  - Spring Core
+    - Container
+    - Bean
+    - Dependency
+  - Spring boot
+    - Spring Boot Test
+  - Spring Data Access
+    - Spring JDBC
 
 - Common Topic
-    - Basic Frontend Knowledge
-        - HTML
-        - CSS
-        - JavaScript
-    - OS
-        - How OSs work in General
-        - Process & Threads
-        - Basic Terminal Command
-    - Network
-        - OSI 7 Layer
-        - Block/Non-Block
-        - Connection Management
-        - HTTP
-            - Header
-            - Caching
-            - Optimization
-            - HTTP2.0
-    - Database
-        - MySQL
-        - RDBMS
-    - RESTful APIs
-    - Documentation
-        - Spring REST Docs
-    - Logging
-        - Logback
-    - Authentication
-        - Cookie Based
-        - OAuth
-        - Basic Authentication
-        - Token Authentication
-        - JWT
-    - Authorization
-    - Deployment
-    - ORMs
-    - JVM
-    - Fault Tolerance
-        - SPOF
-        - Horizontal vs Vertical Scaling
-    - Caching
-    - Security
-        - Hashing Algorithms
-        - TLS
-        - Firewall
-        - CORS
-        - SQL Injection
+
+  - Basic Frontend Knowledge
+    - HTML
+    - CSS
+    - JavaScript
+  - OS
+    - How OSs work in General
+    - Process & Threads
+    - Basic Terminal Command
+  - Network
+    - OSI 7 Layer
+    - Block/Non-Block
+    - Connection Management
+    - HTTP
+      - Header
+      - Caching
+      - Optimization
+      - HTTP2.0
+  - Database
+    - MySQL
+    - RDBMS
+  - RESTful APIs
+  - Documentation
+    - Spring REST Docs
+  - Logging
+    - Logback
+  - Authentication
+    - Cookie Based
+    - OAuth
+    - Basic Authentication
+    - Token Authentication
+    - JWT
+  - Authorization
+  - Deployment
+  - ORMs
+  - JVM
+  - Fault Tolerance
+    - SPOF
+    - Horizontal vs Vertical Scaling
+  - Caching
+  - Security
+    - Hashing Algorithms
+    - TLS
+    - Firewall
+    - CORS
+    - SQL Injection
 
 - Software Development Process
-    - Agile
-    - Scrum
-    - Lean
-    - Kanban
-    - Schedule Estimation
-        - Planning Pocker
-    - CI/CD
-        - Software Quality Control
+
+  - Agile
+  - Scrum
+  - Lean
+  - Kanban
+  - Schedule Estimation
+    - Planning Pocker
+  - CI/CD
+    - Software Quality Control
 
 - Web Architecture Components
-    - Web Server
-        - Apache
-        - Nginx
-        - NodeJS
-        - Tomcat
-    - Proxy
-        - Forward Proxy
-        - Reverse Proxy
-    - Load Balancer
-    - CDN
+
+  - Web Server
+    - Apache
+    - Nginx
+    - NodeJS
+    - Tomcat
+  - Proxy
+    - Forward Proxy
+    - Reverse Proxy
+  - Load Balancer
+  - CDN
 
 - Advanced Testing
-    - ATTD
-    - Integrating Test
-    - Mockito
+
+  - ATTD
+  - Integrating Test
+  - Mockito
 
 - Framework
-    - MVC
-        - Servlet Container
-        - Servlet Filter
-    - DI
-    - AOP
+
+  - MVC
+    - Servlet Container
+    - Servlet Filter
+  - DI
+  - AOP
 
 - Design
+
   - DDD
-      - Ubiquitous Language
-      - Event Storming
-      - 전략적 설계
-      - 전술적 설계
-      - Event Sourcing
-      - CQRS
+    - Ubiquitous Language
+    - Event Storming
+    - 전략적 설계
+    - 전술적 설계
+    - Event Sourcing
+    - CQRS
   - Clean Architecture
 
 - More Web Architecture Components
-    - WebSocket
-    - Docker Container
-    - NoSQL
-    - Elasticsearch
-    - Kafka
-    - Redis
-    - Spring Batch
-    - Spring Security
+  - WebSocket
+  - Docker Container
+  - NoSQL
+  - Elasticsearch
+  - Kafka
+  - Redis
+  - Spring Batch
+  - Spring Security
