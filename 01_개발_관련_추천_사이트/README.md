@@ -88,6 +88,7 @@
 - [애자일(Agile) 개발 방법론](https://hanseul-lee.github.io/2020/11/29/20-11-29-Agile/)
 - [AWS Ec2 무료 강의 사이트](https://www.inostudy.net/mypage/index.jsp)
 - [Cors 인증 관련 삽질](https://www.popit.kr/cors-preflight-%EC%9D%B8%EC%A6%9D-%EC%B2%98%EB%A6%AC-%EA%B4%80%EB%A0%A8-%EC%82%BD%EC%A7%88/)
+- []()
 
 ### ✔ 영상
 
