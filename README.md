@@ -4,8 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/53969142/148641756-b96dccff-82ff-4be4-9172-790eff176277.png" width="200" height="80" alt="펀인 기업이미지"/>
 
-주식회사 퍼닌은 😀Fun(즐거운)과 👨‍👨‍👧‍👧In(사람인)의 합성어로 즐거운 일터와 사람을 뜻합니다.  
-또한, SI와 기술력 향상을 위한 R&D, 자체 신규 비즈니스를 준비하고 적용하고 있습니다.
+주식회사 퍼닌은 SI와 기술력 향상을 위한 R&D, 자체 신규 비즈니스를 준비하고 적용하고 있습니다.
 
 ### 🔨 Tech Stack
 
@@ -38,10 +37,9 @@
 
 </div>
 
-## 🙏 Goal
+### 🍃 Goal
 
-- 새로운 지식과 정보를 함께 채워나가기 위함입니다.
-- 사내 개발자들간의 지식 및 정보 공유를 위한 소통의 장입니다.
+- 새로운 지식과 정보를 사내 개발자와 함께 공유.
 
 ### ✨ Related to development
 
@@ -49,8 +47,8 @@
 
 ### 🔎 Dev Contents & Keyword
 
-- [백엔드 로드맵 키워드](02_BackEnd_개발_키워드/README.md)
-- [프론트엔드 로드맵 키워드](02_FrontEnd_개발_키워드/README.md)
+- [백엔드 로드맵 키워드](02_Backend_개발_키워드/README.md)
+- [프론트엔드 로드맵 키워드](03_Frontend_개발_키워드/README.md)
 
 ### 📖 Documentation
 
