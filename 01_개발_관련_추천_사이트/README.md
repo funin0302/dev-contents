@@ -1,10 +1,8 @@
 # Dev Contents
 
-현재 자사 서비스 구축에 필요한 기본지식 및 참고 내용을 기재해 두었습니다.
+## Fixed Post
 
-## 📌 Fixed Post
-
-- [Github Pull request를 통해 code review 하는법](https://devlog-wjdrbs96.tistory.com/231) ⭐
+- [Github Pull request를 통해 code review 하는법](https://devlog-wjdrbs96.tistory.com/231)
 - [Design Patterns 모음집](https://gngsn.tistory.com/118)
 
 ## Content
